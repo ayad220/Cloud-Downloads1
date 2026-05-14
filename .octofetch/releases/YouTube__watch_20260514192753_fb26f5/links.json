@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7649",
+  "folder": "YouTube__watch_20260514192753_fb26f5",
+  "base_name": "resident_evil_4_-_mod_rising_of_evil_5_l046DRodPXU_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ayad220/Cloud-Downloads1/releases/tag/co-releases-v1-7649",
+  "files": [
+    {
+      "name": "resident_evil_4_-_mod_rising_of_evil_5_l046DRodPXU_1080p.mp4",
+      "url": "https://github.com/ayad220/Cloud-Downloads1/releases/download/co-releases-v1-7649/resident_evil_4_-_mod_rising_of_evil_5_l046DRodPXU_1080p.mp4",
+      "api_url": "https://api.github.com/repos/ayad220/Cloud-Downloads1/releases/assets/420410985",
+      "id": 420410985,
+      "size": 2039302487,
+      "download_count": 0
+    }
+  ]
+}
