@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4724",
+  "folder": "YouTube__watch_20260515005331_a7acdb",
+  "base_name": "Resident_Evil_9_Requiem_nNbTwh41Fvs_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ayad220/Cloud-Downloads1/releases/tag/co-releases-v1-4724",
+  "files": [
+    {
+      "name": "Resident_Evil_9_Requiem_nNbTwh41Fvs_720p.mp4",
+      "url": "https://github.com/ayad220/Cloud-Downloads1/releases/download/co-releases-v1-4724/Resident_Evil_9_Requiem_nNbTwh41Fvs_720p.mp4",
+      "api_url": "https://api.github.com/repos/ayad220/Cloud-Downloads1/releases/assets/420600414",
+      "id": 420600414,
+      "size": 1312270173,
+      "download_count": 0
+    }
+  ]
+}
