@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7462",
+  "folder": "YouTube__watch_20260517231643_395cec",
+  "base_name": "_B10p3gitO-I_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ayad220/Cloud-Downloads1/releases/tag/co-releases-v1-7462",
+  "files": [
+    {
+      "name": "_B10p3gitO-I_720p.mp4",
+      "url": "https://github.com/ayad220/Cloud-Downloads1/releases/download/co-releases-v1-7462/_B10p3gitO-I_720p.mp4",
+      "api_url": "https://api.github.com/repos/ayad220/Cloud-Downloads1/releases/assets/422788101",
+      "id": 422788101,
+      "size": 160742245,
+      "download_count": 0
+    }
+  ]
+}
